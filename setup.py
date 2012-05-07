@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.Tru64'
 VERSION = '1.1'
 AUTHOR = 'Jürg Gerber'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Tru64']
 INSTALL_REQUIRES = ['ZenPacks.zenoss.DnsMonitor>=2.0']
